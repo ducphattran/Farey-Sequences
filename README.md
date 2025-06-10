@@ -46,4 +46,6 @@ This project successfully demonstrates the recursive generation of Farey sequenc
 The implementation respects the formal definition of the sequence and avoids brute-force enumeration. 
 This method is clean, efficient, and shows the elegance of mathematical construction within programming.
 
+## My GitHub link to the Project
+https://github.com/ducphattran/Farey-Sequences
 
